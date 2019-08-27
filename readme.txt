@@ -5,3 +5,4 @@ python manage.py runserver
 python manage.py migrate
 python manage.py makemigrations
 python manage.py startapp myaccount
+python manage.py createsuperuser
